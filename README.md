@@ -26,7 +26,7 @@
 
 <p align='center'>  
   <a href="mailto:truestar0807@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>&nbsp
-  <a href="https://github.com/InChil2" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/>&nbsp
+  <a href="https://github.com/PerfectTruth" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/>&nbsp
 </p>
 
     
